@@ -5,11 +5,8 @@ console.log("First");
 function firstFun(){
 
 }
+function  anotherFun(){
 
-function secondFun(){
-    console.log(second);
 }
-
-secondFun()
 
 console.log("some Info");
