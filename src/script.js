@@ -9,3 +9,7 @@ function firstFun(){
 function secondFun(){
     console.log(second);
 }
+
+secondFun()
+
+console.log("some Info");
